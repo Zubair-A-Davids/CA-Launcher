@@ -2,7 +2,7 @@
 
 ## Overview
 
-CA Launcher is a user-friendly application designed to help users manage and launch their frequently used files and scripts from a single interface. Built using Python and the Tkinter library, it provides an intuitive graphical user interface (GUI) for easy interaction.
+CA Launcher (Compact App Launcher) is a user-friendly application designed to help users manage and launch their frequently used files and scripts from a single interface. Built using Python and the Tkinter library, it provides an intuitive graphical user interface (GUI) for easy interaction.
 
 ## Features
 
@@ -14,13 +14,15 @@ CA Launcher is a user-friendly application designed to help users manage and lau
 
 ## Usage
 
-![1782512255185](image/readme/1782512255185.png) Useful for command line bat files and cmd scripts, or even exe's.
+* Useful for command line bat files and cmd scripts, or even exe's.
+
+![1782512255185](image/readme/1782512255185.png) 
+
+* You can use CA Launcher to set your Files and Scripts into one application.
 
 ![1782512492769](image/readme/1782512492769.png)
 
-You can use CA Launcher to set your Files and Scripts into one application.
-
-You will be able to Give the item a name, a description and an icon.
+* You will be able to Give the item a name, a description and an icon.
 
 ## Project Launcher Windows App
 
